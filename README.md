@@ -46,7 +46,7 @@ END TEST
 **Rationale:**
 - **Claridad Mejorada:** Cada nombre de test especifica el escenario exacto a probar.
 - **Single Responsibility:** Cada test ahora cumple con un escenario en especifico.
-- **Test Independientes:** Realizando diferentes test invidivuales, nos aseguramos que cada uno independientemente cumpla con una sola función, de tal forma que si se presenta cualquier error o falla sea mas facil de diagnosticar.
+- **Isolación Mejorada:** Realizando diferentes test invidivuales, nos aseguramos que cada uno independientemente cumpla con una sola función, de tal forma que si se presenta cualquier error o falla sea mas facil de diagnosticar.
 
 ### Scenario 2: Data Processing Functions
 
